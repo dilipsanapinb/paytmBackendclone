@@ -1,0 +1,258 @@
+[
+    {
+        "brand": "Puma",
+        "name": "Sneakers Shoes For Men ( White )",
+        "price": 1999,
+        "strike_price": "3,999",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOPUMA-MEN-S-WPUMA335823B7D8682/1564562276786_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Peter England",
+        "name": "Men Slim Fit Solid Formal Shirt",
+        "price": 524,
+        "strike_price": "1,049",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPPETER-ENGLANADIT50996AF0E9514/1562790387722_1..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Allen Cooper",
+        "name": "Ankle Boots For Men ( Brown )",
+        "price": 2000,
+        "strike_price": "3,999",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOALLEN-COOPERALLE662876D13C32A/6.jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Goldstar",
+        "name": "Running Shoes For Men ( Black )",
+        "price": 499,
+        "strike_price": "1,499",
+        "discount": "-67%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOGOLDSTAR-ORIS-M-326621915097B7/1563333639880_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Liberty",
+        "name": "Men Sandals ( Brown )",
+        "price": 1299,
+        "strike_price": "899",
+        "discount": "-62%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOCOOLERS-BY-LLIBE865663CCEA7FEA/1563379821895_6.jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Bi Fashion",
+        "name": "Men Hood Self Design T-Shirt Pack Of 1",
+        "price": 339,
+        "strike_price": "2,995",
+        "discount": "-40%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPBI-FASHION-RR-K-2832722A41624B/1562978738844_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Woodland",
+        "name": "Casual Shoes For Men ( Green )",
+        "price": 1797,
+        "strike_price": "4,000",
+        "discount": "-63%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOWOODLAND-MENAERO21259898DA926/1564568247910_0..JPG?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Royal Kurta",
+        "name": "Men Linen",
+        "price": 1492,
+        "strike_price": "2,699",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPROYAL-KURTA-MEHT37061185CE27A/1562760780761_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "BASICS",
+        "name": "Men Skinny Fit Low Rise Jeans Pack Of 1",
+        "price": 1349,
+        "strike_price": "1,495",
+        "discount": "-12%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPBASICS-COTTOBASI20086F6FA0597/1568923547189_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Nike",
+        "name": "Men Flip-Flops ( Multi )",
+        "price": 1321,
+        "strike_price": "4,669",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOONIKE-NIKE-THSHAK293991B59D581/1564600579287_0.jpeg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Bata",
+        "name": "Loafers For Men ( Black )",
+        "price": 1049,
+        "strike_price": "3,999",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOBATA-MENS-BLFASH9707032F976E7/1640596200444_6.jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Zido",
+        "name": "Men Party & Ceremonial Waistcoat",
+        "price": 2324,
+        "strike_price": "4,995",
+        "discount": "-78%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPZIDO-BLUE-MEFORE47737B8E3EFDA/1562789025836_1..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Leather Retail",
+        "name": "Men Leather Long Sleeves Leather Jacket",
+        "price": 1999,
+        "strike_price": "749",
+        "discount": "-7%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPLEATHER-RETANARE622320AB49192D/1562951354127_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Red Tape",
+        "name": "Men Oxford Formal Shoes ( Brown )",
+        "price": 1120,
+        "strike_price": "1,699",
+        "discount": "-25%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOORED-TAPE-MENRED-25097925CC214F/1564567578250_1..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Sparx",
+        "name": "Men Floaters ( Black )",
+        "price": "699",
+        "strike_price": "999",
+        "discount": "-59%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOSPARX-MEN-SSDEV-47891E94CDC84/1563321543870_1.jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Campus",
+        "name": "CITY-RIDE Running Shoes For Men ( Navy Blue )",
+        "price": 1274,
+        "strike_price": "3,999",
+        "discount": "-74%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOCAMPUS-MEN-CCAMP60071088F8AEFA/1563349714556_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Geum",
+        "name": "Men Hood Colorblocked T-Shirt Pack Of 1",
+        "price": 409,
+        "strike_price": "4,000",
+        "discount": "-71%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPGEUM-MEN-COTGEUM676889EF8666DA/1581156793149_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Hangup",
+        "name": "Men Casual Waistcoat",
+        "price": 1047,
+        "strike_price": "2,999",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPHANGUP-MENS-LEE-45074AD5C7FA7/1562902309735_1..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Maharaja",
+        "name": "Men Cotton 2",
+        "price": 1150,
+        "strike_price": "1,199",
+        "discount": "-33%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPMAHARAJA-MENACCE62660E6F898F1/1562880003699_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Hush Puppies",
+        "name": "Men ( Tan )",
+        "price": 2999,
+        "strike_price": "4,195",
+        "discount": "-15%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOHUSH-PUPPIESFASH97070F010F8B2/1564569412906_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Adidas",
+        "name": "YKING M Walking Shoes For Men ( Blue )",
+        "price": 1499,
+        "strike_price": "2,599",
+        "discount": "-81%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOADIDAS-YKINGSHOE7498062EF39BD/1563412589110_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Lancer",
+        "name": "Men Floaters ( Blue )",
+        "price": 799,
+        "strike_price": "2,999",
+        "discount": "-67%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOLANCER-BLUE-FASH9707037E5679B/1564604449295_1..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Red Chief",
+        "name": "Casual Shoes For Men ( Brown )",
+        "price": 3565,
+        "strike_price": "3,995",
+        "discount": "-40%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOORED-CHIEF-RCREDC200989E523E3C/1564608667544_12.jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Converse",
+        "name": "Sneakers Shoes For Unisex ( Beige )",
+        "price": 499,
+        "strike_price": "3,499",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOCONVERSE-UNITIAG276913FCF9891B/1564570701392_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Larwa",
+        "name": "Men Silk Kurta And Churidar Set Pack Of 1",
+        "price": 999,
+        "strike_price": "4,495",
+        "discount": "-42%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPKURTA-PYJAMAVIPI24247E7F7A090/1562856808086_1..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Woodland",
+        "name": "Casual Shoes For Men ( Grey )",
+        "price": 2397,
+        "strike_price": "4,799",
+        "discount": "-50%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOWOODLAND-MENAERO2125934691C5F/1564573593903_1..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Puma",
+        "name": "Sneakers Shoes For Men ( Black )",
+        "price": 1749,
+        "strike_price": "999",
+        "discount": "-10%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOPUMA-MEN-S-SPUMA335823E61BABBE/1564564115967_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Nike",
+        "name": "Runallday Running Shoes For Men ( Grey )",
+        "price": 2589,
+        "strike_price": "3,999",
+        "discount": "-60%",
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOONIKE-MEN-S-RRK-G807051759225D4/1563349761803_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Red Chief",
+        "name": "Casual Shoes For Men ( Tan )",
+        "price": 2399,
+        "strike_price": null,
+        "discount": null,
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOORC3424-RUSTREDC200989C7869D5/1564560335945_12.jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Bata",
+        "name": "Men Sandals ( Brown )",
+        "price": 1049,
+        "strike_price": null,
+        "discount": null,
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOBATA-MENS-BRFASH97070CCFB36D3/1563348352741_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Bata",
+        "name": "Men Derby Formal Shoes ( Black )",
+        "price": 899,
+        "strike_price": null,
+        "discount": null,
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOBATA-MENS-BLFASH97070CDDEEBDD/1564570170827_0..jpg?imwidth=282&impolicy=hq"
+    },
+    {
+        "brand": "Puma",
+        "name": "Brisk FR IDP Running Shoes For Men ( Blue )",
+        "price": 1599,
+        "strike_price": null,
+        "discount": null,
+        "image_url": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOBRISK-FR-IDPPUMA335823D1C90B21/6.jpg?imwidth=282&impolicy=hq"
+    }
+]
